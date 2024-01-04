@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.login-container {
+  justify-content: center;
+}
+.heading {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+.login-text {
+  background-color: slategray;
+  font-size: 15px;
+  border: solid black 1px;
+  color: #000000;
+}
